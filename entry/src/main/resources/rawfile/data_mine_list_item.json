@@ -1,0 +1,32 @@
+[
+  {
+  "title":"服务",
+  "img":"app.media.list_user._service",
+  "others":"0"
+  },
+  {
+  "title":"收藏",
+  "img":"app.media.list_user._service",
+  "others":"0"
+  },
+  {
+  "title":"朋友圈",
+  "img":"app.media.list_user._service",
+  "others":"0"
+  },
+  {
+  "title": "卡包",
+  "img" : "app.media.list_user._service",
+  "others" : "0"
+  },
+  {
+  "title" : "表情",
+  "img" : "app.media.list_user._service",
+  "others" : "0"
+  },
+  {
+  "title" : "设置",
+  "img" : "app.media.list_user._service",
+  "others" : "0"
+  }
+]

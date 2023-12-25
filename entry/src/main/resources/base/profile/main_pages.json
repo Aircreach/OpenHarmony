@@ -1,0 +1,16 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Main",
+    "pages/Login",
+    "pages/Msg",
+    "pages/Ads",
+    "pages/VideoPlay",
+    "pages/Duty",
+    "pages/Test",
+    "pages/Notification",
+    "pages/PreferencesUtils",
+    "pages/HttpTest",
+    "utils/PreferencesUtil"
+  ]
+}
